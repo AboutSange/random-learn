@@ -1,0 +1,102 @@
+{
+    "python_spider": [
+        "BeautifulSoup", 
+        "Scrapy", 
+        "lxml", 
+        "selenium"
+    ], 
+    "machine_learn": [
+        "Scikit-learn", 
+        "Tensorflow", 
+        "Caffe"
+    ], 
+    "front_end": [
+        "HTML", 
+        "CSS", 
+        "Javascript", 
+        "Bootstrap", 
+        "JQuery", 
+        "React", 
+        "Vue", 
+        "Angular", 
+        "Ajax"
+    ], 
+    "database": [
+        "MySQL", 
+        "Hive", 
+        "MongoDB"
+    ], 
+    "other_technology": [
+        "git", 
+        "Docker", 
+        "Nginx", 
+        "Jenkins", 
+        "Kafka", 
+        "Zookeeper", 
+        "virtualenv", 
+        "cython", 
+        "pyinstall"
+    ], 
+    "python_science": [
+        "numpy", 
+        "math"
+    ], 
+    "other_language": [
+        "C++", 
+        "Java", 
+        "Go"
+    ], 
+    "data_structure_algorithm": [
+        "线性表", 
+        "栈", 
+        "队列", 
+        "串", 
+        "数组", 
+        "树", 
+        "图", 
+        "动态存储管理算法", 
+        "查找算法", 
+        "排序算法", 
+        "文件索引"
+    ], 
+    "linux": [
+        "linux进程相关", 
+        "linux内核机制", 
+        "shell"
+    ], 
+    "python_base": [
+        "socket", 
+        "re", 
+        "threading", 
+        "multiprocess", 
+        "json", 
+        "xml", 
+        "logging", 
+        "subprocess", 
+        "os", 
+        "sys", 
+        "time", 
+        "datetime", 
+        "shutil", 
+        "ctypes", 
+        "atexit", 
+        "argparse", 
+        "platform", 
+        "_winreg", 
+        "ConfigParser", 
+        "getpass", 
+        "codecs", 
+        "string", 
+        "datetime", 
+        "collections", 
+        "random", 
+        "chardet", 
+        "urllib2", 
+        "requests"
+    ], 
+    "python_web": [
+        "Django", 
+        "Flask", 
+        "Tornado"
+    ]
+}
