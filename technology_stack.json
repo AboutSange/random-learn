@@ -17,14 +17,17 @@
         "Bootstrap", 
         "JQuery", 
         "React", 
-        "Vue", 
+        "Vue.js", 
         "Angular", 
-        "Ajax"
+        "Ajax",
+        "Node.js"
     ], 
     "database": [
         "MySQL", 
         "Hive", 
-        "MongoDB"
+        "MongoDB",
+        "redis",
+        "Memcached"
     ], 
     "other_technology": [
         "git", 
@@ -35,7 +38,8 @@
         "Zookeeper", 
         "virtualenv", 
         "cython", 
-        "pyinstall"
+        "pyinstall",
+        "axure"
     ], 
     "python_science": [
         "numpy", 
@@ -44,7 +48,12 @@
     "other_language": [
         "C++", 
         "Java", 
-        "Go"
+        "Go",
+        "PHP",
+        "Julia",
+        "Android",
+        "微信小程序",
+        "IOS"
     ], 
     "data_structure_algorithm": [
         "线性表", 
