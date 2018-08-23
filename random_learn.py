@@ -19,7 +19,7 @@ import sys
 import time
 import logging
 
-CURRENT_DIR = os.path.dirname(os.path.realpath(__file__))
+CURRENT_DIR = os.path.dirname(os.path.realpath('__file__'))
 LOG = logging.getLogger(__name__)
 
 def print_coding():
@@ -74,6 +74,7 @@ def main():
     init_log()
     # print_coding()
     keyword = get_one_keyword()
+    os.system('pause')
 
 if __name__ == '__main__':
     main()
